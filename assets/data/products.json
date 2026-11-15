@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "description": "Bluetooth bağlantılı, yüksek ses kaliteli kulaklık.",
+    "price": 1299.90,
+    "category": "Elektronik",
+    "image": "assets/images/kulaklik.png"
+  },
+  {
+    "id": 2,
+    "name": "Akıllı Saat",
+    "description": "Sağlık ve aktivite takibi yapan akıllı saat.",
+    "price": 2499.90,
+    "category": "Elektronik",
+    "image": "assets/images/saat.png"
+  },
+  {
+    "id": 3,
+    "name": "Sırt Çantası",
+    "description": "Günlük kullanım için modern ve dayanıklı çanta.",
+    "price": 899.90,
+    "category": "Aksesuar",
+    "image": "assets/images/canta.png"
+  },
+  {
+    "id": 4,
+    "name": "Spor Ayakkabı",
+    "description": "Hafif ve konforlu günlük spor ayakkabı.",
+    "price": 1899.90,
+    "category": "Giyim",
+    "image": "assets/images/ayakkabi.png"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Hoparlör",
+    "description": "Taşınabilir, güçlü ses performanslı hoparlör.",
+    "price": 1599.90,
+    "category": "Elektronik",
+    "image": "assets/images/hoparlor.png"
+  },
+  {
+    "id": 6,
+    "name": "Güneş Gözlüğü",
+    "description": "UV korumalı, şık tasarımlı güneş gözlüğü.",
+    "price": 749.90,
+    "category": "Aksesuar",
+    "image": "assets/images/gozluk.png"
+  }
+]
